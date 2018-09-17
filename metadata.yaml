@@ -1,0 +1,27 @@
+_repo: William-Nelson-A-Memoir_52192
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Daniel, Sir
+    alias: Wilson, Daniel
+    birthdate: 1816
+    deathdate: 1892
+    gutenberg_agent_id: '46329'
+    url: http://www.gutenberg.org/2009/agents/46329
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Wilson_%28academic%29
+description: ''
+gutenberg_issued: '2016-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Publishers and publishing'
+- !lcc 'Z'
+- !lcsh 'Nelson, William, 1816-1887'
+- GITenberg
+title: 'William Nelson: A Memoir'
+url: http://www.gutenberg.org/ebooks/52192
